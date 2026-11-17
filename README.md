@@ -299,7 +299,7 @@ B_x+iB_y
 ```math
 \boxed{
 \langle\sigma_x\rangle
-=2\operatorname{Re}
+=2\,\mathrm{Re}
 \left(\psi_\uparrow^*\psi_\downarrow\right)
 }
 ```
@@ -307,7 +307,7 @@ B_x+iB_y
 ```math
 \boxed{
 \langle\sigma_y\rangle
-=2\operatorname{Im}
+=2\,\mathrm{Im}
 \left(\psi_\uparrow^*\psi_\downarrow\right)
 }
 ```
