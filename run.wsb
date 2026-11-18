@@ -1,0 +1,9 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C://Projects/spin/deploy</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\МояПапка</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>

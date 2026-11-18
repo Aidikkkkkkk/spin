@@ -1,1 +1,3 @@
 build/
+deploy/
+build_qt.ps1
